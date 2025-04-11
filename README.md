@@ -1,17 +1,3 @@
-Perfect — here is the **complete `README.md`** in Markdown format with:
-
-- 🔧 Key Features  
-- 🛠️ Setup Instructions  
-- 📚 Documentation Index  
-- 🤝 Contributing  
-- 📝 License  
-- 🙌 Credits  
-
-You can copy and paste it into your GitHub repo’s `README.md`:
-
----
-
-```markdown
 # LLM & LVM Playground Monorepo
 
 Welcome to the **LLM & LVM Playground**, a comprehensive monorepo template for experimenting with **Large Language Models (LLMs)** and **Large Vision Models (LVMs)**.
@@ -138,8 +124,6 @@ This repo builds on the amazing work from:
 **Maintainer**: [Your Name / Org]  
 📫 Contact: [your-email@example.com]  
 ⭐ Star the repo if you find it useful!
-```
 
----
 
 Let me know if you want this packaged as a `.zip` with placeholder folders and README files included.
